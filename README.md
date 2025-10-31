@@ -145,7 +145,7 @@ User Login → Browse Catalog → Submit Request → Librarian Approval
 
 **Report & UI Design Project** - This repository contains the conceptual design and documentation for the Library Management System. No implementation code is included; the focus is on business process analysis, user requirements, and interface design.
 
-## 📌 Project Status
+##  Project Status
 
 This project represents the design and documentation phase of the Library Management System development lifecycle. The deliverables include:
 -  Complete business process documentation
