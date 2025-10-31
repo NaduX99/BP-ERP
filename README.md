@@ -109,7 +109,7 @@ The UI design focuses on creating an intuitive, accessible interface that priori
 - Administrative reporting dashboard
 - Resource management panels
 
-## 📊 System Workflow
+##  System Workflow
 
 User Login → Browse Catalog → Submit Request → Librarian Approval 
 → Issue Book → Track Due Date → Return/Renew → Fine Processing (if applicable) 
@@ -141,7 +141,7 @@ User Login → Browse Catalog → Submit Request → Librarian Approval
 ### Storage
 - **Project Drive**: [Access Project Files](https://nsbm365-my.sharepoint.com/:f:/g/personal/mhasara_students_nsbm_ac_lk/EkI8Bo6XGh9OprYZpXWRM_AB9M3VG3OpN1fGjNpM9dlsAw?e=1pRXHP)
 
-## 📝 Project Type
+##  Project Type
 
 **Report & UI Design Project** - This repository contains the conceptual design and documentation for the Library Management System. No implementation code is included; the focus is on business process analysis, user requirements, and interface design.
 
