@@ -155,5 +155,3 @@ This project represents the design and documentation phase of the Library Manage
 -  Project report and presentation materials
 
 ---
-
-**Note**: This is a design and documentation project created for academic purposes. The Figma designs showcase the proposed user interface, while the PDF documentation details the business processes and system requirements.
