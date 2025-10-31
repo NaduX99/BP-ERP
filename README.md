@@ -2,7 +2,7 @@
 
 A comprehensive university Library Management System designed to streamline book borrowing, resource tracking, fine management, and administrative operations with a modern, user-friendly interface.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
@@ -13,7 +13,7 @@ A comprehensive university Library Management System designed to streamline book
 - [Team Members](#team-members)
 - [Project Resources](#project-resources)
 
-## 📖 Project Overview
+##  Project Overview
 
 The Library Management System is designed to support efficient management of books, journals, e-resources, and student borrowing/returning activities in a university environment. The system maintains accurate cataloging, circulation tracking, fine calculation, and resource availability, enabling students and staff to easily access learning resources.
 
@@ -21,7 +21,7 @@ The Library Management System is designed to support efficient management of boo
 
 This project addresses the need for streamlined library operations by providing an intuitive digital platform that eliminates manual tracking errors, reduces processing time, and enhances the overall user experience for students, librarians, and administrators.
 
-## ✨ Key Features
+##  Key Features
 
 ### Core Functionality
 - **Book Borrowing & Returns**: Complete workflow for requesting, issuing, and returning library resources
@@ -38,7 +38,7 @@ This project addresses the need for streamlined library operations by providing 
 - Fine and overdue handling
 - Comprehensive report generation for administrators
 
-## 👥 User Roles
+##  User Roles
 
 The system supports three primary user categories:
 
@@ -65,7 +65,7 @@ The system supports three primary user categories:
 - Configure system settings
 - Monitor overall library statistics
 
-## 🔄 Business Processes
+##  Business Processes
 
 ### High-Level Processes
 1. **Resource Cataloging & Classification**: Systematic organization of library materials
@@ -84,7 +84,7 @@ The system supports three primary user categories:
 6. **Fine Calculation**: System automatically calculates fines for overdue materials
 7. **Report Generation**: Administrators generate reports on usage, inventory, and operations
 
-## 🎨 UI Design
+##  UI Design
 
 ### Design Access
 - **Figma Design Link**: [BPERP UI Design](https://www.figma.com/design/4tYZEgJmWJ3hqhbWB0baW3/BPERP?node-id=0-1&t=mncgaTl6sBl5m11Y-1)
@@ -116,7 +116,7 @@ User Login → Browse Catalog → Submit Request → Librarian Approval
 → Admin Reports
 
 
-## 👨‍💻 Team Members
+##  Team Members
 
 | Name | Student ID |
 |------|------------|
@@ -132,7 +132,7 @@ User Login → Browse Catalog → Submit Request → Librarian Approval
 | AKA THARINDU | 32372 |
 | RAV KAVINDA | 32327 |
 
-## 📁 Project Resources
+## Project Resources
 
 ### Documentation
 - Project documentation and business processes are detailed in the attached PDF document
@@ -148,11 +148,11 @@ User Login → Browse Catalog → Submit Request → Librarian Approval
 ## 📌 Project Status
 
 This project represents the design and documentation phase of the Library Management System development lifecycle. The deliverables include:
-- ✅ Complete business process documentation
-- ✅ User role and requirements analysis
-- ✅ Complete UI/UX design in Figma
-- ✅ System workflow diagrams
-- ✅ Project report and presentation materials
+-  Complete business process documentation
+-  User role and requirements analysis
+-  Complete UI/UX design in Figma
+-  System workflow diagrams
+-  Project report and presentation materials
 
 ---
 
