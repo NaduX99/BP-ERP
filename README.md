@@ -122,7 +122,7 @@ User Login → Browse Catalog → Submit Request → Librarian Approval
 |------|------------|
 | MH ASARA | 32412 |
 | MNL SUBHASIRI | 32232 |
-| KK PUNCHIHEWA | 32942 |
+| KK PUNCHIHEWAGE | 32942 |
 | WVH ISURINDI | 32673 |
 | RSDR SAMARANAYAKE | 32224 |
 | GAPO GODAMUNE | 32383 |
